@@ -13,7 +13,7 @@ kind: bring-coffee
 metadata:
   name: espresso
 spec:
-  actions: ["stand up", "turn left", "open a dor", "etc.."]
+  actions: ["stand up", "turn left", "open a door", "etc.."]
 ```
 
 ```yaml
@@ -25,11 +25,6 @@ spec:
   action: bring-coffee
   location: raanana-office, 1st floor
 ```
-
-```java
-i++
-```
-
    
 
 #### [State](https://en.wikipedia.org/wiki/State_(computer_science)
